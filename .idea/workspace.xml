@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad308e16-5dc3-481d-afd9-ce6a98ceccaf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/flight-reservation/passengers-count-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/flight-reservation/passengers-count-1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/flight-reservation/passengers-count-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/flight-reservation/passengers-count-2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/flight-reservation/passengers-count-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/flight-reservation/passengers-count-3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/flight-reservation/passengers-count-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/flight-reservation/passengers-count-4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/jquery-3.6.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/junitreports/TEST-com.example.tests.flightreservation.FlightReservationTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/old/flight-reservation/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/old/flight-reservation/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/old/flight-reservation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/old/flight-reservation/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/old/flight-reservation/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/old/flight-reservation/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/old/flight-reservation/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/old/flight-reservation/passengers-count-1.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/old/flight-reservation/passengers-count-2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/old/flight-reservation/passengers-count-3.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/old/flight-reservation/passengers-count-4.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/old/flight-reservation/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/old/flight-reservation/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/old/flight-reservation/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/testng-reports1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/testng-reports2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/flight-reservation/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/jquery-3.6.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/junitreports/TEST-com.example.tests.vendorportal.VendorPortalTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/user-john.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/user-mike.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/old/vendor-portal/user-sam.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/testng-reports1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/testng-reports2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/vendor-portal/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/vendor-portal/user-john.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/vendor-portal/user-john.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/vendor-portal/user-mike.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/vendor-portal/user-mike.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/vendor-portal/user-sam.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/vendor-portal/vendor-portal/user-sam.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runner.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pages/AbstractPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pages/flightreservation/FlightconfirmationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pages/flightreservation/FlightsSearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pages/flightreservation/FlightsSelectionPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pages/flightreservation/RegistrationConfirmationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pages/flightreservation/RegistrationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pages/vendorportal/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pages/vendorportal/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/listener/TestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/tests/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/tests/flightreservation/FlightReservationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/tests/flightreservation/model/FlightReservationTestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/tests/vendorportal/VendorPortalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/tests/vendorportal/model/VendorPortalTestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/util/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/util/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/util/JsonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/util/ResourceLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config/default.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/test-data/flight-reservation/passenger-1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/test-data/flight-reservation/passenger-2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/test-data/flight-reservation/passenger-3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/test-data/flight-reservation/passenger-4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/test-data/vendor-portal/john.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/test-data/vendor-portal/mike.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/test-data/vendor-portal/sam.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/test-suites/flight-reservation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/test-suites/vendor-portal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-suite.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2XcW3SyFzjmmGHjpfARUsLVNMbZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/selenium_framework/selenium-docker&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\selenium_framework\selenium-docker" />
+      <recent name="C:\selenium_framework\selenium-docker\src\test\resources\test-data\flight-reservation" />
+      <recent name="C:\selenium_framework\selenium-docker\src\test\resources\test-suites" />
+      <recent name="C:\selenium_framework\selenium-docker\src\test\resources\test-data\vendor-portal" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\selenium_framework\selenium-docker\src\test\resources\test-data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/selenium_framework/selenium-docker/src/test/resources/test-suites/vendor-portal.xml">
+    <configuration name="C:/selenium_framework/selenium-docker/src/test/resources/test-suites/flight-reservation.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-docker" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/test-suites/flight-reservation.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/selenium_framework/selenium-docker/src/test/resources/test-suites/vendor-portal.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-docker" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/test-suites/vendor-portal.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/selenium_framework/selenium-docker/test-suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-docker" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/test-suite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlightReservationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-docker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.flightreservation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.flightreservation" />
+      <option name="MAIN_CLASS_NAME" value="com.example.flightreservation.FlightReservationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendorPortalTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-docker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.tests.vendorportal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.tests.vendorportal" />
+      <option name="MAIN_CLASS_NAME" value="com.example.tests.vendorportal.VendorPortalTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/selenium_framework/selenium-docker/src/test/resources/test-suites/vendor-portal.xml" />
+        <item itemvalue="TestNG.C:/selenium_framework/selenium-docker/src/test/resources/test-suites/flight-reservation.xml" />
+        <item itemvalue="TestNG.C:/selenium_framework/selenium-docker/test-suite.xml" />
+        <item itemvalue="TestNG.VendorPortalTest" />
+        <item itemvalue="TestNG.FlightReservationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad308e16-5dc3-481d-afd9-ce6a98ceccaf" name="Changes" comment="" />
+      <created>1698928649601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698928649601</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/pages/flightreservation/FlightsSearchPage.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/util/Config.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/selenium_docker$C__selenium_framework_selenium_docker_src_test_resources_test_suites_vendor_portal_xml.ic" NAME="$PROJECT_DIR$/src/test/resources/test-suites/vendor-portal.xml Coverage Results" MODIFIED="1701884240483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
